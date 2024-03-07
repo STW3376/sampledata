@@ -1,0 +1,11 @@
+investment_id,investment_name,investment_type,investment_type_of_interest,investment_region,investment_sector
+inv01,investment 01,propco,equity,australia,office
+inv02,investment 02,opco,equity,brazil,retail
+inv03,investment 03,propco and opco,equity,cananda,hospitality
+inv04,investment 04,public company,equity,united states,mixed use
+inv05,investment 05,private fund,lp interest,china,self storage
+inv06,investment 06,propco,debt,europe,hospitality
+inv07,investment 07,propco,preferred equity,united kingdom,logistics
+inv08,investment 08,opco,equity,korea,office
+inv09,investment 09,opco,equity,india,retail
+inv10,investment 10,propco and opco,equity,united states,multifamily

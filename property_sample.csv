@@ -1,0 +1,21 @@
+property_id,property_name,property_status,property_sector
+prop01,property 01,operating,office
+prop02,property 02,operating,office
+prop03,property 03,operating,retail
+prop04,property 04,operating,retail
+prop05,property 05,operating,multifamily
+prop06,property 06,development,multifamily
+prop07,property 07,development,hospitality
+prop08,property 08,development,logistics
+prop09,property 09,development,mixed use
+prop10,property 10,operating,retail
+prop11,property 11,operating,self storage
+prop12,property 12,operating,office
+prop13,property 13,operating,retail
+prop14,property 14,operating,senior living
+prop15,property 15,development,manufactured housing
+prop16,property 16,development,office
+prop17,property 17,development,office
+prop18,property 18,development,office
+prop19,property 19,land (no planned use),land (no planned use)
+prop20,property 20,land (no planned use),land (no planned use)

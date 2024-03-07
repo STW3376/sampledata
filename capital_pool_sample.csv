@@ -1,0 +1,6 @@
+capitalpool_id,capitalpool_name,capitalpool_type,capitalpool_status
+cp1,capital pool 1,private fund,active
+cp2,capital pool 2,private fund,active
+cp3,capital pool 3,fund of one,inactive
+cp4,capital pool 4,co-invest,active
+cp5,capital pool 5,public company,inactive
